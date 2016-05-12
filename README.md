@@ -1,4 +1,3 @@
-# kavyanori.github.io
 Freelancer Jekyll theme
 Jekyll theme based on Freelancer bootstrap theme
 
