@@ -1,0 +1,47 @@
+# Site settings
+title: Kavya Nori
+email: kavya.nori@gmail.com
+url: https://kavyanori.github.io
+description: "Kavya Nori's personal website."
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 3c5f87 #80B3FF
+  secondary: b13533 #FD6E8A
+  secondary-dark: 070f19 #070f19 better than 000000
+
+# Footer settings
+footer:
+  copyright: Kavya Nori
+  location: Location
+  social: Around the Web
+  credits: Contact
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/
+  - title: facebook
+    url: https://www.facebook.com/
+  - title: linkedin
+    url: https://www.linkedin.com/in/
+  - title: google-plus
+    url: https://plus.google.com/
+  - title: github
+    url: http://github.com/kavyanori
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 'Toronto, ON M9W 7J4'
+
+# Credits content
+credits:
+  - line: <a href="mailto:kavya.nori@gmail.com" target="_top" style="color:white">kavya.nori@gmail.com</a>
+  - line: (514) 778-2330
+
+# Build settings
+markdown: kramdown
+permalink: pretty
