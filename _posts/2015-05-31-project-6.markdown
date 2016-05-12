@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2015-05-31
+img: gotv-reports.png
+alt: image-alt
+project-date: August 2012
+client: <a href="http://barackobama.com">Obama for America</a>
+category: Web Development
+description: The Metric System application was built by my team in Nevada during President Barack Obama's Re-election Campaign in 2012. This responsive web app integrated all the critical elements of our data-driven field operation into one centralized tool. This application allowed us to efficiently organize and accurately analyze our program in a flexible, customized context. The Metric System Application was dynamically synchronized with all our hard data sources, including field tools and paid programs.  Not only were were tracking real-time percent to goal we also integrated soft data reporting for our nightly field calls. Combined the hard data and soft data gave us the flexibility to access our program within our goal structures and ensured that we were holding our program accountable to it's objectives at all times. In addition to the core numbers, this tool integrated a cutting edge dashboard including innovative data visualizations and also integrated geospatial tools and maps which permitted deeper levels of analysis. 
+
+---
