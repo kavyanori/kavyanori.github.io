@@ -1,8 +1,8 @@
 # Site settings
-title: Chris Coger
-email: christopher.coger@gmail.com
-url: https://coger.github.io
-description: "Chris Coger's personal website."
+title: Kavya Nori
+email: kavya.nori@gmail.com
+url: https://kavyanori.github.io
+description: "Kavya Nori's personal website."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -15,7 +15,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Christopher Coger
+  copyright: Kavya Nori
   location: Location
   social: Around the Web
   credits: Contact
@@ -23,25 +23,22 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/_Coger
+    url: https://twitter.com/@krsna2498
   - title: facebook
-    url: https://www.facebook.com/chris.coger
+    url: https://www.facebook.com/kavya.nori
   - title: linkedin
-    url: https://www.linkedin.com/in/chriscoger
-  - title: google-plus
-    url: https://plus.google.com/+ChristopherCoger/
+    url: https://www.linkedin.com/in/kavyanori
   - title: github
-    url: http://github.com/coger
+    url: http://github.com/kavyanori
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: '5720 Fishers Lane, #329'
-  - line: 'Rockville, MD 20852'
+  - line: 'Toronto, ON M9W 7J4'
 
 # Credits content
 credits:
-  - line: <a href="mailto:christopher.coger@gmail.com" target="_top" style="color:white">christopher.coger@gmail.com</a>
-  - line: (585) 770-4276
+  - line: <a href="mailto:kavya.nori@gmail.com" target="_top" style="color:white">kavya.nori@gmail.com</a>
+  - line: (514) 778-2330
 
 # Build settings
 markdown: kramdown
